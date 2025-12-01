@@ -1,7 +1,7 @@
 # NeuroVortexArc Research  
 **Independent micro-lab exploring synthetic cognition and AGI-inspired brain architectures.**
 
-<img src="https://github.com/NeuroVortexArcResearch/.github/raw/main/profile/logo.png" width="180"/>
+<img src="https://github.com/NeuroVortexArcResearch/NeuroVortexArc-Home/blob/main/1764609122401(1).jpg" width="180"/>
 
 ---
 
